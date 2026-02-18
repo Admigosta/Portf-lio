@@ -1,2 +1,2 @@
-# Portfólio
-Primeiro repositório de portfólio
+# Portfólio - profissional.
+Primeiro repositório de portfólio.
